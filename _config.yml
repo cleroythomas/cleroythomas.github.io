@@ -42,14 +42,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:https://www.facebook.com/cleroythomasjr
-github_url:https://github.com/cleroythomas
+facebook_url: https://www.facebook.com/cleroythomasjr
+github_url: https://github.com/cleroythomas
 googleplus_url:
-instagram_url:https://www.instagram.com/cleroythomas/
-linkedin_url:https://www.linkedin.com/in/chuckleroythomasjr/
+instagram_url: https://www.instagram.com/cleroythomas/
+linkedin_url: https://www.linkedin.com/in/chuckleroythomasjr/
 pinterest_url:
 slack_url:
-twitter_url:https://twitter.com/cleroythomas?lang=en
+twitter_url: https://twitter.com/cleroythomas?lang=en
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
