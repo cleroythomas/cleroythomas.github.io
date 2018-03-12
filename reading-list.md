@@ -1,22 +1,23 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Favorite Media
+subtitle: a list of my favorite media and entertainment
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I enjoy a lot of different media. I love books and movies and and have become a podcast fanatic in recent years. I am also a big SEC Football fan. I'm putting an incomplete list here. I love suggestions, please feel free to email anything I should be paying attention to...
+I do a lot of reading, surfing online, and movie watching, listening to podcasts. Here is a list of my favorite media:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+I. Books:
+   A. Fiction
+   B. Non Fiction
+   
+II. Websites:
+III. Podcasts:
+IV. Sports
+V. Movies
+V. TV Shows
+VI. Radio
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
