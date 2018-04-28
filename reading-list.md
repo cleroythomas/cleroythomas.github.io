@@ -1,13 +1,11 @@
 ---
-title: Favorite Media
-subtitle: a list of my favorite media and entertainment
+title: Links and Media
+subtitle: Links and Media
 layout: "page"
 icon: fa-book
 order: 3
 ---
-
-I enjoy a lot of different media. I love books and movies and and have become a podcast fanatic in recent years. I am also a big SEC Football fan. I'm putting an incomplete list here. I love suggestions, please feel free to email anything I should be paying attention to...
-I do a lot of reading, surfing online, and movie watching, listening to podcasts. Here is a list of my favorite media:
+Links and media For additional research: Please feel free to email additional items to include: cleroythomas@gmail.com
 
 I. Books:<br>
    A. Fiction<br>
@@ -20,4 +18,4 @@ V. Movies
 V. TV Shows
 VI. Radio
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+
