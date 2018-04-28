@@ -11,3 +11,13 @@ Watch the following video for a quick intro on using the app.
 
 Watch the following video how the app was made and how someone can easily do the same thing in their community. 
 
+<div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>This is an arcgis online app I am putting together of the East Austin's Tejano historic walking trail. You can access the app from http://arcg.is/2mqx9Ez </h3>
+        </header>
+      </div>
+    </div>
+   
