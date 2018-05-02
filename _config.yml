@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Austin Homeless Reduction
-subtitle: Portfolio and Blog
+title: ATX Maps
+subtitle: Civic Apps, Story Maps and Data Viz
 description: >- # this means to ignore newlines until "baseurl:"
 author: Charles L. Thomas Jr.
 email: cleroythomas@gmail.com
