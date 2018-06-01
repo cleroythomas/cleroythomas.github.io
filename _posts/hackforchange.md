@@ -1,6 +1,6 @@
 ---
 title: hackforchange
-author: Chris
+author: Chuck Thomas
 layout: post
 ---
 Hackforchange
